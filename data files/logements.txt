@@ -1,0 +1,4 @@
+F3 123_Main_St 75 5 1
+F3 456_Oak_Rd 120 10 2
+studio 789_Pine_Ave 40 2 3
+F2 101_Beach_Dr 200 15 4
