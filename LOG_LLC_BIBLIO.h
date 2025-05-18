@@ -509,7 +509,7 @@ void saveLogement()
     Node_logement *p;
     FILE *file;
     p = head_logement;
-    file = fopen("data files/logements.txtt", "w");
+    file = fopen("data files/logements.txt", "w");
     while (p != NULL)
     {
         logement temp;

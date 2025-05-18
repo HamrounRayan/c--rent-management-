@@ -1,3 +1,4 @@
+F3 boumerdas 12 9000 8
 F3 123_Main_St 75 5 1
 F3 456_Oak_Rd 120 10 2
 studio 789_Pine_Ave 40 2 3
